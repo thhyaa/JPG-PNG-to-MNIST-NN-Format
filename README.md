@@ -23,7 +23,7 @@ pip3 install pillow
 
 3\. 运行rename-script.sh脚本将所有图片转换为png格式
 
-`./resize-script.sh`
+`./rename-script.sh`
 
 4\. 如果需要则运行resize-script.sh脚本将图片大小设置为指定格式（默认为256×256）
 
