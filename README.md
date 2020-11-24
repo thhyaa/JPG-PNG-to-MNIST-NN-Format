@@ -10,7 +10,7 @@
 安装必须的python包pliiow和非必须软件imagemagick:
 
 ```bash
-sudo apt install imagemagick // 如果需要同一图片大小则安装imagemagick
+sudo apt install imagemagick // 如果需要统一图片大小则安装imagemagick
 pip3 install pillow
 ```
 
